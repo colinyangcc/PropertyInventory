@@ -42,7 +42,7 @@ public class LoginFragment extends Activity implements View.OnClickListener{
 
     public static String operator_id,operator_pwd;
     public static String operator_name;
-
+    //
     private Connection conn = null;
     private String ConnURL = "";
 
