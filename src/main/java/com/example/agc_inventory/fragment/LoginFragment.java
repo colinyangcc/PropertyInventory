@@ -88,6 +88,7 @@ public class LoginFragment extends Activity implements View.OnClickListener{
             }
         }
 
+        //MSSQL Connection String
         ConnURL = "jdbc:jtds:sqlserver://" + LA.getDBHostIP() + ";instanceName=MSSQLSERVER2017;"
                 + "databaseName=" + LA.getDBName() + ";charset=utf8;integratedSecurity=true;user=" + LA.getDBAccount() + ";password=" + LA.getDBPassword() + ";";
 
@@ -116,6 +117,7 @@ public class LoginFragment extends Activity implements View.OnClickListener{
             StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
             StrictMode.setThreadPolicy(policy);
 
+            //用jtds driver 來連接SQL Server
             Class.forName("net.sourceforge.jtds.jdbc.Driver").newInstance();
             conn = DriverManager.getConnection(ConnURL);
 
@@ -283,6 +285,7 @@ public class LoginFragment extends Activity implements View.OnClickListener{
         return hex.toString();
     }
 
+    //檢查網路狀態
     private boolean isConnected(String ipaddress){
         boolean result = false;
         ConnectivityManager connManager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
