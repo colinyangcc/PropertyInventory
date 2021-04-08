@@ -285,7 +285,6 @@ public class LoginFragment extends Activity implements View.OnClickListener{
         return hex.toString();
     }
 
-    //檢查網路狀態
     private boolean isConnected(String ipaddress){
         boolean result = false;
         ConnectivityManager connManager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
