@@ -154,6 +154,7 @@ public class UHFReadTagListFragment extends KeyDwonFragment {
         ConnURL = "jdbc:jtds:sqlserver://" + Account.getDBHostIP() + ";instanceName=MSSQLSERVER2017;"
                 + "databaseName=" + Account.getDBName() + ";charset=utf8;integratedSecurity=true;user=" + Account.getDBAccount() + ";password=" + Account.getDBPassword() + ";";
 
+        // adapter
         adapter = new SimpleAdapter(mContext, tagList, R.layout.listtag_items,
                 new String[]{"tagProdNo", "tagBookNo", "tagCount"},
                 new int[]{R.id.TvTagProdNo, R.id.TvTagBookNo, R.id.TvTagCount}){
