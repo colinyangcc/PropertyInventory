@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources translatable="false">
+    <string-array name="country_codes" translatable="false">
+        <item>-</item>
+        <item>AR</item>
+        <item>AU</item>
+        <item>BR</item>
+        <item>BG</item>
+        <item>CA</item>
+        <item>CN</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GR</item>
+        <item>HU</item>
+        <item>ID</item>
+        <item>IT</item>
+        <item>JP</item>
+        <item>KR</item>
+        <item>NL</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RU</item>
+        <item>SE</item>
+        <item>SK</item>
+        <item>SI</item>
+        <item>TR</item>
+        <item>TW</item>
+        <item>US</item>
+    </string-array>
+
+    <array name="power">
+        <item>@drawable/power0</item>
+        <item>@drawable/power1</item>
+        <item>@drawable/power2</item>
+        <item>@drawable/power3</item>
+        <item>@drawable/power4</item>
+        <item>@drawable/power5</item>
+        <item>@drawable/power6</item>
+        <item>@drawable/power7</item>
+        <item>@drawable/power8</item>
+        <item>@drawable/power9</item>
+        <item>@drawable/power10</item>
+    </array>
+</resources>

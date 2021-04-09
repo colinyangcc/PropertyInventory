@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AGC手持機盤點系統 v1.3</string>
+    <string name="action_settings">設置</string>
+    <string name="action_logout">登出</string>
+    <string name="action_about">關於</string>
+    <string name="action_display">顯示設置</string>
+    <string name="title_ip_or_domain">輸入網域/IP</string>
+    <string name="title_ping_count">PING次數</string>
+    <string name="title_ping_succ">PING成</string>
+    <string name="title_ping_fail">PING功失敗</string>
+    <string name="title_ping_seconds"> 秒</string>
+    <string name="title_ping_background">後台運行</string>
+    <string name="title_ping_wait">超時時間(秒)</string>
+    <string name="title_start">開始</string>
+    <string name="title_ping_restart">重新開始</string>
+    <string name="title_ping_pingresult">Ping 結果</string>
+    <string name="title_ping_uploadresult">上傳 結果</string>
+    <string name="title_ping_downloadresult">下載 結果</string>
+    <string name="title_stop">停止</string>
+    <string name="title_activity_settings">設置</string>
+    <string name="action_set">設置</string>
+    <string name="msg_network_none">無網路，請先打開網路</string>
+    <string name="msg_network_ok">網路己連接</string>
+    <string name="msg_network_unavailable">無網路</string>
+    <string name="msg_domain_ip_bad">功能變數名稱/IP格式錯誤</string>
+    <string name="msg_loding">加載中...</string>
+    <string name="msg_no_data">無數據</string>
+    <string name="msg_mac_error">錯誤</string>
+    <string name="msg_mac_change">變化</string>
+    <string name="msg_mac_unmatched">不匹配</string>
+    <string name="app_title">AppCenter</string>
+    <string name="app_msg_exit_confirm">再按一次退出</string>
+    <string name="upload_title">上傳測速 %s</string>
+    <string name="download_title">下載測速 %s</string>
+    <string name="action_back">返回</string>
+    <string name="ok">確定</string>
+    <string name="exit">退出</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="clear">清除</string>
+    <string name="close">關閉</string>
+    <string name="up_one_level">..(返回上一級目錄)</string>
+    <string name="current_dir">.(刷新)</string>
+    <string name="strFilePath">文件路徑</string>
+    <string name="strBrowser">瀏覽...</string>
+    <string name="strPermissionDeny">無許可權訪問該目錄</string>
+    <string name="title_activity_download">下載測速</string>
+    <string name="title_activity_upload">上傳測速</string>
+    <string name="title_Ping">Ping測試</string>
+    <string name="title_Download">下載測速</string>
+    <string name="title_Upload">上傳測速</string>
+    <string name="strUpload">上傳</string>
+    <string name="strUpgrade">升級</string>
+    <string name="title_activity_ping">PingActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_ping_packet_size">數據包大小</string>
+    <string name="ping_title">Ping測試 %s</string>
+    <string name="yid_title">一維條碼測試</string>
+    <string name="erd_title">二維條碼測試</string>
+    <string name="title_activity_yi_d">一維條碼</string>
+    <string name="title_activity_er_d">二維條碼</string>
+    <string name="title_random_inventory">隨機盤點</string>
+    <string name="title_list_inventory">清單盤點</string>
+    <string name="title_search">標籤查找</string>
+    <string name="title_clear">清除</string>
+    <string name="title_init_barcode">初始條碼</string>
+    <string name="title_scan_between">執行間隔</string>
+    <string name="title_work_time">工作</string>
+    <string name="title_wait_time">等待</string>
+    <string name="yid_title_scan_compare">比較</string>
+    <string name="yid_title_scan_continuous">連續,間隔</string>
+    <string name="yid_msg_scan_fail">讀取失敗</string>
+
+
+    <string name="yid_msg_scan_cancel">掃描已取消</string>
+    <string name="yid_msg_scan_timeout">掃描超時</string>
+
+
+
+    <string name="yid_msg_scan_error">條碼不正確</string>
+    <string name="title_scan_count">掃描次數</string>
+    <string name="title_succ_count">成功次數</string>
+    <string name="title_fail_count">失敗次數</string>
+    <string name="title_error_count">錯誤次數</string>
+    <string name="title_error_rate">錯誤率</string>
+    <string name="title_succ_rate">成功率</string>
+    <string name="title_fail_rate">失敗率</string>
+    <string name="title_activity_bluetooth_print">藍牙列印</string>
+
+    <string name="title_decode_time">解碼時間</string>
+
+
+    <!-- BTPrinterDemo -->
+    <string name="send">發送</string>
+    <string name="Print">列印</string>
+    <string name="Clear">清空</string>
+    <string name="not_connected">請先連接藍牙印表機</string>
+    <string name="bt_not_enabled_leaving">藍牙沒有啟動，不能打單據</string>
+    <string name="title_connecting">正在連接...</string>
+    <string name="title_connected_to">已連接: </string>
+    <string name="title_not_connected">沒有連接</string>
+    <string name="default_font_gray_scale">4</string>
+    <string name="fontGrayscaleName">列印灰度</string>
+    <string name="fontGrayScaleRange">(1~8)</string>
+    <string name="PrintContent"> HELLO WORLD! \n
+</string>
+
+    <!-- DeviceListActivity -->
+    <string name="scanning">掃描設備...</string>
+    <string name="select_device">選擇連接的設備</string>
+    <string name="none_paired">沒有匹配的設備</string>
+    <string name="none_found">沒有找到設備</string>
+    <string name="title_paired_devices">匹配的設備</string>
+    <string name="title_other_devices">其它可用設備</string>
+    <string name="button_scan">掃描設備</string>
+    <string name="title_activity_uhfmain">UHF</string>
+
+    <!-- inventorytag -->
+    <string name="tvInventoryName">識別標籤</string>
+    <string name="tvCountOfTags">標籤數&#160;&#160;</string>
+    <string name="rbInventorySingle">單步</string>
+    <string name="rbInventoryLoop">迴圈</string>
+    <string name="rbInventoryAnti">防碰撞</string>
+    <string name="tvQ">Q值：</string>
+    <string name="btInventory">開始識別</string>
+    <string name="title_stop_Inventory">停止識別</string>
+    <string name="tvTagUii">EPC</string>
+    <string name="tvTagLen">長度</string>
+    <string name="tvTagCount">讀取次數</string>
+    <string name="btClear">清空數據</string>
+    <string name="btImport">匯出</string>
+    <string name="btInvUpload">盤點上傳</string>
+    <string name="tvTag">標籤</string>
+
+    <string name="InventoryStatistics">盤點統計</string>
+    <string name="InventoryCount">己盤數</string>
+    <string name="NotCheckCount">未盤數</string>
+    <string name="Total_Count">應盤總數</string>
+    <string name="cb_multiInv">多張盤點</string>
+    <string name="Cb_OnlyTowel">只盤毛巾</string>
+    <string-array name="arrayAntiQ">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="arrayLF">
+        <item>ID卡</item>
+        <item>動物標籤</item>
+        <item>HiTag</item>
+        <item>HDX標籤</item>
+        <item>EM4450</item>
+        <item>HID PROXIMITY</item>
+    </string-array>
+    <!-- read -->
+    <string name="btUii">讀標籤號</string>
+    <string name="ckWithUii">指定標籤</string>
+    <string name="tvTagUii_Read">標&#160;&#160;簽&#160;&#160;號：</string>
+    <string name="tvBank">存&#160;&#160;儲&#160;&#160;區：</string>
+    <string name="tvPtr">地&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;址：</string>
+    <string name="tvLen">長度：</string>
+    <string name="tvAccessPwd">訪問密碼：</string>
+    <string name="tvLockCode">鎖定碼：</string>
+    <string name="tvOption_Read">讀取模式：</string>
+    <string name="ckLoop_Read">迴圈</string>
+    <string name="ckAnti_Read">防碰撞</string>
+    <string name="ckSecond">2級參數設置</string>
+    <string name="tvBank2_Read">存&#160;&#160;儲&#160;&#160;區：</string>
+    <string name="tvPtr2_Read">地&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;址：</string>
+    <string name="tvLen2_Read">長&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;度：</string>
+    <string name="tvData_Read">資料內容：</string>
+    <string name="btRead">讀取數據</string>
+
+    <string-array name="arrayBank">
+        <item>RESERVED</item>
+        <item>EPC</item>
+        <item>TID</item>
+        <item>USER</item>
+    </string-array>
+    <string-array name="arrayBank2">
+        <item>EPC</item>
+        <item>TID</item>
+        <item>USER</item>
+    </string-array>
+    <string-array name="arrayOption_Read">
+        <item>單次讀</item>
+        <item>迴圈讀</item>
+        <item>防碰撞讀（1級）</item>
+        <item>防碰撞讀（2級）</item>
+    </string-array>
+
+    <!-- power -->
+    <string name="uhf_title_power">輸出功率：</string>
+    <string name="uhf_btn_setpower">設置功率</string>
+    <string name="uhf_btn_workwait">設置空占比</string>
+    <string name="uhf_btn_get_workwait">獲取空占比</string>
+    <string name="uhf_btn_getpower">讀取功率</string>
+    <string name="uhf_title_dbm">dBm</string>
+
+
+    <string name="uhf_title_link">鏈路參數：</string>
+    <string name="uhf_btn_set_link">設置鏈路</string>
+    <string name="uhf_btn_get_link">讀取鏈路</string>
+
+
+    <string name="uhf_title_read">讀</string>
+    <string name="uhf_title_write">寫</string>
+
+    <string name="uhf_title_filter">過濾</string>
+
+    <string name="uhf_title_temp">臨時遮罩</string>
+    <string name="uhf_title_perm">永久遮罩</string>
+    <string name="uhf_title_open">開放</string>
+    <string name="uhf_title_lock">鎖</string>
+
+    <string name="uhf_session">Session ID</string>
+    <string name="uhf_inv">Inventoried Flag</string>
+    <string name="btGetSession">獲取 Session</string>
+    <string name="btSetSession">設置 Session</string>
+    <!-- chooseuii -->
+    <string name="tvChooseInfo">請選擇UII的去向</string>
+    <string name="rbRead">讀取數據</string>
+    <string name="rbWrite">寫入資料</string>
+    <string name="rbErase">擦除數據</string>
+    <string name="rbLock">鎖定資料</string>
+    <string name="btEnter">確定</string>
+    <string name="btCancel">取消</string>
+
+    <!-- getuiiforoperation -->
+    <string name="tvGetUiiForOperation">標籤列表</string>
+    <string name="btReadUii">讀取UII</string>
+
+    <!-- datalist -->
+    <string name="btStop">停止</string>
+    <string name="btBack1">返回</string>
+
+    <!-- datalist_items -->
+    <string name="tvTagUii_Data">標籤號：</string>
+    <string name="tvBank_Data">存儲區：</string>
+    <string name="tvPtr_Data">地址：</string>
+    <string name="tvLen_Data">長度：</string>
+    <string name="tvCount_Data">次數：</string>
+    <string name="tvData_Data">數據：</string>
+    <string name="tvStatus_Data">狀態：</string>
+
+    <!-- write -->
+    <string name="tvTagUii_Write">標&#160;&#160;簽&#160;&#160;號：</string>
+    <string name="tvOption_Write">寫入模式：</string>
+    <string name="tvData_Write">寫入資料：</string>
+    <string name="btWrite">寫入資料</string>
+
+    <string-array name="arrayOption_Write">
+        <item>單字單次</item>
+        <item>多字單次</item>
+    </string-array>
+
+    <!-- lock -->
+    <string name="tvTagUii_Lock">標&#160;&#160;簽&#160;&#160;號：</string>
+    <string name="tvKill_Lock">KillPwd：</string>
+    <string name="tvAccess_Lock">AccessPwd：</string>
+    <string name="tvUII_Lock">UII：</string>
+    <string name="tvTID_Lock">TID：</string>
+    <string name="tvUSER_Lock">USER：</string>
+    <string name="tvLockCode_Lock">鎖&#160;&#160;定&#160;&#160;碼：</string>
+    <string name="btCreateCode">生成</string>
+    <string name="btLock">鎖定</string>
+
+    <string-array name="arrayLock">
+        <item>保持狀態</item>
+        <item>鎖定</item>
+        <item>解鎖</item>
+        <item>永久鎖定</item>
+        <item>永久解鎖</item>
+    </string-array>
+    <string-array name="arraysession">
+        <item>S0</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+    <string-array name="arrayinv">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+    <!-- killtag -->
+    <string name="tvTagUii_Kill">標&#160;&#160;簽&#160;&#160;號：</string>
+    <string name="tvKillPwd">銷毀密碼：</string>
+    <string name="btKill">銷毀</string>
+
+    <!-- select -->
+    <string name="tvBank_Select">存儲區：</string>
+    <string name="tvPtr_Select">地&#160;&#160;&#160;&#160;址：</string>
+    <string name="tvMask">掩&#160;&#160;&#160;&#160;碼：</string>
+    <string name="tvOrder">序&#160;&#160;&#160;&#160;號：</string>
+    <string name="num">數量：</string>
+    <string name="btAdd_Select">添加</string>
+    <string name="btDel_Select">刪除</string>
+    <string name="btChoose_Select">選擇</string>
+    <string name="btRead_Select">讀取</string>
+
+    <string-array name="arrayNum">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <!-- frequency -->
+
+    <string name="tv_r2000_fun">R2000功能</string>
+
+
+    <string name="tvProtocol">協議(僅R2000)：</string>
+    <string name="tvQTPublic">開啟尋隱藏區(QT標籤)：</string>
+
+    <string name="tvTAndE">開啟尋TID和EPC：</string>
+    <string name="tvFastID">開啟FastID：</string>
+    <string name="tvTagFocus">開啟TagFocus：</string>
+
+
+    <string name="tvMode">工作模式：</string>
+    <string name="btSetFre">設置頻率</string>
+    <string name="btSetProtocol">設置協議</string>
+    <string name="btSetFreHop">設置頻點</string>
+
+    <string name="title_QTTag">QT標籤</string>
+    <string name="btSetPrar">設置QT參數</string>
+    <string name="btGetPrar">獲取QT參數</string>
+
+
+
+    <string name="tvFreHop">頻點：</string>
+    <string name="tvFreRange">頻率範圍：</string>
+    <string name="btGetFre">讀取頻率</string>
+    <string name="tvStartFreI">起始頻率整數：</string>
+    <string name="tvFreI">840</string>
+    <string name="btAddI">+</string>
+    <string name="btReduceI">-</string>
+    <string name="tvStartFreD">起始頻率小數：</string>
+    <string name="tvFreD">50</string>
+    <string name="btAddD">+</string>
+    <string name="btReduceD">-</string>
+    <string name="tvBase">頻率基數：</string>
+    <string name="tvChannelCount">頻道數：</string>
+    <string name="HintChannelCount">頻道數不小於1</string>
+    <string name="tvChinnelSpace">頻道頻寬：</string>
+    <string name="tvHop">跳頻方式：</string>
+    <string name="btCalRange">計算</string>
+    <string name="tvMHz">MHz</string>
+    <string name="tvKHz">KHz</string>
+
+    <string-array name="arrayMode">
+        <item>中國標準(920~925MHz)</item>
+        <item>中國標準(840~845MHz)</item>
+        <item>ETSI標準(865~868MHz)</item>
+        <item>定頻模式(915MHz)</item>
+        <item>美國標準(902~928MHz)</item>
+    </string-array>
+    <string-array name="arrayBase">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="arrayChannelSpc0">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="arrayChannelSpc1">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="arrayHop">
+        <item>隨機跳頻</item>
+        <item>從高往低順序跳頻</item>
+        <item>從低往高順序跳頻</item>
+    </string-array>
+    <string-array name="arrayVoltage">
+        <item>5V</item>
+        <item>3V</item>
+        <item>1.8V</item>
+        <item>iso</item>
+    </string-array>
+    <string-array name="arrayBaud">
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>43000</item>
+        <item>56000</item>
+        <item>57600</item>
+        <item>115200</item>
+    </string-array>
+
+    <string name="title_activity_uhfset">設置</string>
+    <string name="title_activity_network_status">網路信號</string>
+    <string name="ap_list_header_channel">通道</string>
+    <string name="ap_list_header_level">等級</string>
+    <string name="ap_list_header_ssid">子網路遮罩</string>
+    <string name="ap_list_header_state">狀態</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="ap_title_ssid">已連接：</string>
+    <string name="ap_title_pause">暫停</string>
+    <string name="ap_title_goon">繼續</string>
+    <string name="ap_title_wifi_size">WiFi個數：</string>
+    <string name="ap_dialog_title">連接到</string>
+    <string name="ap_title_bssid">BSSID：</string>
+    <string name="ap_title_security">安全：</string>
+    <string name="ap_title_pwd">密碼：</string>
+    <string name="ap_title_ip">IP地址：</string>
+    <string name="tel_title_OperatorName">運營商：</string>
+    <string name="tel_title_Status">狀態：</string>
+    <string name="tel_title_NetworkType">網路類型：</string>
+    <string name="tel_title_Signal">信號強度：</string>
+    <string name="title_activity_gps">GPS</string>
+    <string name="gps_title_Longitude">經度：</string>
+    <string name="gps_title_Latitude">緯度：</string>
+    <string name="gps_title_SatelliteCount">連接衛星數：</string>
+    <string name="gps_title_Altitude">海拔：</string>
+    <string name="gps_title_GpsStatus">GPS狀態：</string>
+    <string name="gps_title_Time">定位耗時：</string>
+    <string name="title_activity_app_set">全域設置</string>
+    <string name="title_activity_a1443">14443A</string>
+    <string name="title_activity_iso15693">15693</string>
+    <string name="m1_title_tag_type">標籤類型:</string>
+
+    <string name="m1_title_single">常規</string>
+    <string name="m1_title_multiple">自動</string>
+
+    <string name="m1_title_key_type">金鑰類型:</string>
+    <string name="m1_title_key_value">金鑰:</string>
+    <string name="m1_title_sector">磁區:</string>
+    <string name="m1_title_block">塊:</string>
+    <string name="m1_title_read">讀取</string>
+    <string name="m1_title_write">寫入</string>
+    <string name="ul_title_uid">UID：</string>
+    <string name="ul_title_scan">掃描標籤</string>
+    <string name="ul_title_AFI">AFI(1 Byte)</string>
+    <string name="ul_title_DSFID">DSFID(1 Byte)</string>
+    <string name="ml_title_read_id">讀取ID</string>
+    <string name="ul_title_write_AFI">寫入</string>
+    <string name="ul_title_lock_AFI">鎖定</string>
+    <string name="ul_title_write_DSFID">寫入</string>
+    <string name="ul_title_lock_DSFID">鎖定</string>
+    <string name="rfid_title_continuous">連續讀寫</string>
+    <string name="rfid_title_continuous_read">連續讀</string>
+    <string name="rfid_title_continuous_write">連續寫</string>
+    <string name="rfid_title_continuous_read_write">連續讀寫</string>
+    <string name="rfid_title_continuous_count">總次數:</string>
+    <string name="rfid_title_continuous_read_succ_count">讀卡成功次數:</string>
+    <string name="rfid_title_continuous_read_fail_count">讀卡失敗次數:</string>
+    <string name="rfid_title_continuous_write_succ_count">寫卡成功次數:</string>
+    <string name="rfid_title_continuous_write_fail_count">寫卡失敗次數:</string>
+    <string name="action_rfid_ver">RFID版本</string>
+
+    <string name="action_psam_ver">PSAM版本</string>
+
+
+    <string name="action_rfid_upgrader">升級固件</string>
+
+    <string name="action_psam_upgrader">升級固件</string>
+
+
+    <string name="action_uhf_ver">系統版本</string>
+    <string name="action_fingerprint_ver">指紋模組版本</string>
+    <string name="title_about_ram">記憶體:</string>
+    <string name="title_about_storage">存儲:</string>
+    <string name="title_about_display">解析度:</string>
+    <string name="title_about_model">設備型號:</string>
+    <string name="title_about_android_release">Android版本:</string>
+    <string name="title_about_device_release">系統版本:</string>
+    <string name="title_about_device_kernel_version">內核版本:</string>
+    <string name="title_about_jar_release">jar版本:</string>
+    <string name="title_about_mac">MAC:</string>
+    <string name="title_about_sn">序號:</string>
+    <string name="title_about_imei">IMEI:</string>
+    <string name="title_activity_global_set">請選擇功能模組...</string>
+    <string name="title_activity_key_test">按鍵測試</string>
+    <string name="title_activity_key_power">電\n源\n鍵</string>
+    <string name="title_activity_key_home">HOME鍵</string>
+    <string name="title_activity_key_back">返回鍵</string>
+    <string name="ping_msg_pinging">正在 Ping </string>
+    <string name="ping_msg_fail">Ping已終止，功能變數名稱/IP錯誤</string>
+    <string name="up_msg_net_not_conn">網路未連接</string>
+    <string name="up_msg_sel_file">請先選擇檔</string>
+    <string name="up_msg_file_not_exist">文件不存在</string>
+    <string name="up_msg_file_size">文件大小：</string>
+    <string name="up_msg_start_time">開始時間：</string>
+    <string name="up_msg_stop_time">結束時間：</string>
+    <string name="up_msg_total_time">上傳耗時：</string>
+    <string name="up_msg_avg_speed">平均速度：</string>
+    <string name="download_msg_down_file">下載檔案</string>
+    <string name="download_msg_down_confirm">確認下載該文件?</string>
+    <string name="download_msg_confirm">確定</string>
+    <string name="download_msg_cancel">取消</string>
+    <string name="download_msg_close">關閉</string>
+    <string name="download_msg_file_path_not_exist">檔路徑不存在</string>
+    <string name="download_msg_down_succ">下載成功</string>
+    <string name="download_msg_down_fail">下載失敗</string>
+    <string name="download_msg_up_succ">上傳成功</string>
+    <string name="download_msg_up_fail">上傳失敗</string>
+    <string name="download_msg_down_report">測試結果</string>
+    <string name="download_msg_down_file_size">下載大小：</string>
+    <string name="download_msg_total_time">下載耗時：</string>
+    <string name="download_msg_sdcard_not_exist">SD不存在</string>
+    <string name="download_msg_downing">正在下載 ...</string>
+    <string name="download_msg_uploading">正在上傳 ...</string>
+    <string name="download_msg_cancel_upload">上傳被取消</string>
+    <string name="download_msg_cancel_down">下載被取消</string>
+    <string name="bluetooth_msg_not_supp">設備不支援藍牙</string>
+    <string name="network_msg_title_mobile">蜂窩數據</string>
+    <string name="network_msg_sim_not_exist">無Sim卡信息</string>
+    <string name="network_msg_emergency_only">僅限緊急呼叫</string>
+    <string name="network_msg_in_service">信號正常</string>
+    <string name="network_msg_out_of_service">不在服務區</string>
+    <string name="network_msg_power_off">斷電</string>
+    <string name="network_msg_wifi_conn_fail">WiFi連接失敗</string>
+    <string name="network_msg_wifi_conning">WiFi連接中...</string>
+    <string name="network_msg_wifi_not_enable">WiFi不可用</string>
+    <string name="network_msg_wifi_conn">連接</string>
+    <string name="network_msg_wifi_speed">速度：</string>
+    <string name="network_msg_wifi_level">等級：</string>
+    <string name="gps_msg_open_gps">請開啟GPS導航...</string>
+    <string name="gps_msg_Locate_succ">定位成功</string>
+    <string name="gps_msg_Locateing">正在定位...</string>
+    <string name="gps_msg_Locate_stop">定位結束</string>
+    <string name="gps_msg_title_satellite_signal">衛星信號</string>
+    <string name="uhf_msg_tab_scan">掃描</string>
+    <string name="uhf_msg_tab_read">讀數據</string>
+    <string name="uhf_msg_tab_write">寫數據</string>
+    <string name="uhf_msg_tab_set">設定</string>
+    <string name="uhf_msg_tab_kill">銷毀</string>
+    <string name="uhf_msg_tab_lock">鎖定</string>
+    <string name="rfid_msg_scan_fail">掃描失敗</string>
+    <string name="rfid_msg_scan_continuous">連續掃描</string>
+    <string name="ping_msg_background_ping">Ping</string>
+    <string name="ping_msg_runing">正在ping,完成後點擊查看結果</string>
+    <string name="ping_msg_finish">完成</string>
+    <string name="bluetooth_title_file">文件</string>
+    <string name="title_activity_battery_monitor">電量監視</string>
+
+
+    <string name="title_activity_reboot">重啟測試</string>
+
+
+
+    <string name="battery_title_tips">提示：結果保存在SD卡的handset/BatteryMonitor目錄中</string>
+    <string name="battery_msg_background_monitoring">電量監視</string>
+
+    <string name="battery_title_rb_def">系統預設</string>
+    <string name="battery_title_rb_cust">自訂</string>
+
+
+    <string name="battery_msg_runing">電量監視中...</string>
+    <string name="battery_tips_STATUS_NOT_CHARGING">未在充電</string>
+    <string name="battery_tips_STATUS_CHARGING">充電狀態</string>
+    <string name="battery_tips_STATUS_DISCHARGING">放電狀態</string>
+    <string name="battery_tips_NOT_CHARGING">未充電</string>
+    <string name="battery_tips_STATUS_FULL">充滿電</string>
+    <string name="battery_tips_STATUS_UNKNOWN">未知道狀態</string>
+    <string name="battery_tips_HEALTH_UNKNOWN">未知錯誤</string>
+    <string name="battery_tips_HEALTH_GOOD">狀態良好</string>
+    <string name="battery_tips_HEALTH_DEAD">電池沒有電</string>
+    <string name="battery_tips_HEALTH_OVER_VOLTAGE">電池電壓過高</string>
+    <string name="battery_tips_HEALTH_OVERHEAT">電池過熱</string>
+    <string name="battery_tips_level">主電池電量為</string>
+    <string name="battery_tips_voltage">電壓為</string>
+    <string name="battery_tips_temperature">溫度為</string>
+    <string name="battery_tips_extra_level">手柄電池電量為:</string>
+    <string name="battery_tips_extra_dl">手柄電池電流為:</string>
+
+
+    <string name="title_activity_fingerprint">指紋識別</string>
+    <string name="fingerprint_tab_identification">識別</string>
+    <string name="fingerprint_tab_acquisition">採集</string>
+    <string name="fingerprint_title_page_id">存儲ID</string>
+    <string name="fingerprint_title_page_mode">模式</string>
+    <string name="fingerprint_title_page_mode_1">默認</string>
+    <string name="fingerprint_title_page_mode_2">ISO</string>
+    <string name="fingerprint_title_name">用戶名稱</string>
+    <string name="fingerprint_dailog_title">提示</string>
+    <string name="fingerprint_dailog_msg">是否確定清空？</string>
+    <string name="fingerprint_dailog_ok">確定</string>
+    <string name="fingerprint_dailog_no">取消</string>
+    <string name="fingerprint_btn_save">指紋採集</string>
+    <string name="fingerprint_btn_save_stop">停止採集</string>
+    <string name="fingerprint_btn_identification">指紋識別</string>
+    <string name="fingerprint_msg_page_id_not_null">存儲ID不能為空</string>
+    <string name="fingerprint_msg_name_not_null">用戶名稱不能為空</string>
+    <string name="fingerprint_msg_page_id_need_digits">存儲ID必須為數位</string>
+    <string name="fingerprint_msg_page_id_need_0_to_254">存儲ID必須0~254範圍內</string>
+    <string name="fingerprint_msg_acq_succ">採集成功</string>
+    <string name="fingerprint_msg_acq_fail">採集失敗</string>
+    <string name="fingerprint_title_show_img">圖片</string>
+    <string name="fingerprint_title_show_imgiso">圖片(ISO)</string>
+    <string name="fingerprint_title_auto_acquisition">自動</string>
+    <string name="fingerprint_title_get_img_fail">獲取指紋圖片失敗</string>
+    <string name="fingerprint_msg_init_fail">模組初始化失敗</string>
+
+    <string name="rfid_msg_upgrade_fail">RFID升級失敗</string>
+    <string name="rfid_msg_upgrade_succ">RFID升級成功</string>
+
+    <string name="psam_msg_upgrade_fail">PSAM升級失敗</string>
+    <string name="psam_msg_upgrade_succ">PSAM升級成功</string>
+
+
+    <string name="fingerprint_msg_ident_fail">認證失敗</string>
+    <string name="fingerprint_msg_ident_succ">認證成功</string>
+    <string name="fingerprint_title_score">匹配得分</string>
+    <string name="fingerprint_tab_history">數據</string>
+    <string name="fingerprint_tab_set">設置</string>
+    <string name="fingerprint_btn_import">導入模組</string>
+    <string name="fingerprint_btn_clear">重置模組</string>
+    <string name="fingerprint_msg_import_fail">導入失敗(succ:%1$d,fail:%2$d)</string>
+    <string name="fingerprint_msg_import_succ">導入成功</string>
+    <string name="fingerprint_msg_sure_clear">您確定要重置嗎？</string>
+    <string name="fingerprint_msg_clear_fail">重置失敗</string>
+    <string name="fingerprint_msg_clear_succ">重置成功</string>
+    <string name="fingerprint_title_index">序號</string>
+    <string name="fingerprint_title_pageid">頁ID</string>
+    <string name="fingerprint_title_uname">名稱</string>
+    <string name="fingerprint_title_create">採集時間</string>
+    <string name="fingerprint_title_local_num">本地指紋數：</string>
+    <string name="fingerprint_title_model_num">模組指紋數：</string>
+    <string name="fingerprint_menu_del">刪除</string>
+    <string name="fingerprint_menu_delall">清空</string>
+
+    <string name="fingerprint_btn_set_PSW">設置口令</string>
+    <string name="fingerprint_btn_Vfy_PSW">驗證口令</string>
+    <string name="fingerprint_title_PSW">口令</string>
+
+    <string name="fingerprint_title_threshold">比對閥值</string>
+    <string name="fingerprint_title_packet_size">包大小</string>
+
+    <string name="fingerprint_btn_set_Threshold">設置閥值</string>
+    <string name="fingerprint_btn_get_Threshold">獲取閥值</string>
+
+
+    <string name="fingerprint_btn_set_Baudrate">設置串列傳輸速率</string>
+    <string name="fingerprint_btn_get_Baudrate">獲取串列傳輸速率</string>
+
+    <string name="fingerprint_btn_reinit">重新初始化</string>
+
+    <string name="fingerprint_btn_set_PacketSize">設置包大小</string>
+    <string name="fingerprint_btn_get_PacketSize">獲取包大小</string>
+
+
+    <string name="fingerprint_msg_set_threshold_succ">設置比對閥值成功</string>
+    <string name="fingerprint_msg_set_threshold_fail">設置比對閥值失敗</string>
+
+    <string name="fingerprint_msg_set_Baudrate_succ">設置串列傳輸速率成功</string>
+    <string name="fingerprint_msg_set_Baudrate_fail">設置比串列傳輸速率失敗</string>
+
+
+    <string name="fingerprint_msg_set_PacketSize_succ">設置包大小成功</string>
+    <string name="fingerprint_msg_set_PacketSize_fail">設置比包大小失敗</string>
+
+
+    <string name="fingerprint_msg_set_PSW_succ">設置密碼成功</string>
+    <string name="fingerprint_msg_set_PSW_fail">設置比密碼失敗</string>
+
+
+    <string name="fingerprint_msg_verify_PSW_succ">驗證密碼成功</string>
+    <string name="fingerprint_msg_verify_PSW_fail">驗證密碼失敗</string>
+
+    <string name="network_msg_operator_is_null">無運營商資訊</string>
+    <string name="file_title_sel_file">選擇檔</string>
+    <string name="file_title_sel_file_confirm">確認選擇該文件?</string>
+    <string name="file_btn_confirm">確定</string>
+    <string name="file_btn_cancel">取消</string>
+    <string name="file_msg_cancel">取消選擇</string>
+    <string name="ping_msg_not_null">不能為空</string>
+    <string name="gps_title_tip">提示</string>
+    <string name="gps_msg_gps_not_open">GPS未打開，是否去打開？</string>
+    <string name="gps_btn_yes">是</string>
+    <string name="gps_btn_no">否</string>
+    <string name="bluetooth_title_tip">提示</string>
+    <string name="bluetooth_msg_not_adapter">沒有已配對的藍牙設備，請先去配對。</string>
+    <string name="bluetooth_btn_yes">是</string>
+    <string name="bluetooth_btn_no">否</string>
+    <string name="bluetooth_msg_connection_failed">連接失敗，請檢查設備是否被佔用</string>
+    <string name="lf_title_card_type">標籤類型：</string>
+    <string name="lf_msg_scan_fail">讀取失敗</string>
+    <string name="lf_title_pageid">頁ID:</string>
+    <string name="lf_title_data">數據:</string>
+    <string name="lf_title_write">寫入</string>
+    <string name="lf_title_read">讀取</string>
+    <string name="lf_msg_data_not_null">資料不能為空</string>
+    <string name="lf_msg_data_not_hex4">請輸入4位元組HEX</string>
+    <string name="lf_msg_write_succ">寫入成功</string>
+    <string name="lf_msg_write_fail">寫入失敗</string>
+    <string name="lf_msg_data_page_id_err_em4305">只能在0,3,5~13,其中一頁寫入資料</string>
+    <string name="title_activity_lf">RFID_LF</string>
+    <string name="title_activity_needle">針管標籤</string>
+    <string name="title_activity_volum">音量設置</string>
+    <string name="volum_title_voice_call">通話音量</string>
+    <string name="volum_title_systen">系統音量</string>
+    <string name="volum_title_voice_ring">鈴聲音量</string>
+    <string name="volum_title_voice_music">音樂音量</string>
+    <string name="volum_title_voice_notification">提示聲音音量</string>
+    <string name="volum_title_voice_alarm">鬧鈴音量</string>
+    <string name="app_msg_init">正在初始化模組...</string>
+
+
+    <string name="app_msg_Upgrade">升級中...\n請勿退出，以免損壞硬體！</string>
+
+
+    <string name="title_activity_light_and_psensor">感測器</string>
+    <string name="lp_btn_open">打開</string>
+    <string name="lp_btn_auto">自動</string>
+    <string name="lp_btn_stop">停止</string>
+    <string name="lp_btn_close">關閉</string>
+    <string name="lp_title_r">紅</string>
+    <string name="lp_title_g">綠</string>
+    <string name="lp_title_b">藍</string>
+    <string name="lp_title_light">指示燈</string>
+    <string name="lp_title_sensor">感測器</string>
+    <string name="lp_title_brightness">螢幕亮度</string>
+
+    <string name="lp_title_gyroscope">陀螺儀</string>
+    <string name="lp_title_compass">指南針</string>
+
+    <string name="lp_title_psensor">距離感測器值：</string>
+    <string name="lp_title_lightsensor">光線感測器值：</string>
+    <string name="led_action_open">打開輔助燈</string>
+    <string name="led_action_close">關閉輔助燈</string>
+    <string name="led_msg_open_fail">打開輔助燈失敗</string>
+    <string name="led_msg_close_fail">關閉輔助燈失敗</string>
+    <string name="gs_msg_not_one">請選擇功能模組</string>
+    <string name="title_activity_bdnav">北斗</string>
+    <string name="bd_msg_Locate_succ">定位成功</string>
+    <string name="bd_msg_Locateing">正在定位...</string>
+    <string name="bd_msg_Locate_stop">定位結束</string>
+    <string name="bd_msg_title_satellite_signal">衛星信號</string>
+    <string name="bd_title_Longitude">經度：</string>
+    <string name="bd_title_Latitude">緯度：</string>
+    <string name="bd_title_SatelliteCount">連接衛星數：</string>
+    <string name="bd_title_Altitude">海拔：</string>
+    <string name="bd_title_bdStatus">狀態：</string>
+    <string name="bd_title_Time">定位耗時：</string>
+    <string name="bd_title_gps">GPS</string>
+    <string name="bd_title_bd">BD</string>
+    <string name="bd_title_gb">GPS &#038; BD</string>
+    <string name="bd_title_cold">冷開機</string>
+    <string name="bd_title_warm">溫啟動</string>
+    <string name="bd_title_hot">暖開機</string>
+    <string name="title_activity_iso14443_a4_cpu">14443A CPU</string>
+    <string name="b14443_title_cmd">命令</string>
+    <string name="b14443_title_rev">數據</string>
+    <string name="b14443_title_init">初始化</string>
+    <string name="b14443_title_send">發送</string>
+    <string name="b14443_title_getid">獲取UID</string>
+    <string name="b14443_title_auto">自動</string>
+    <string name="b14443_title_stop">停止</string>
+    <string name="b14443_msg_rats">RATS和PPS出錯</string>
+    <string name="b14443_msg_num">CPU卡號</string>
+    <string name="b14443_msg_rev">RATS返回碼</string>
+    <string name="b14443_msg_send_err">命令發送出錯</string>
+    <string name="b14443_msg_init_err">獲取卡號失敗</string>
+    <string name="b14443_msg_uid_err">獲取UID失敗</string>
+    <string name="b14443_msg_uid">UID:</string>
+    <string name="title_activity_iso14443b">14443B</string>
+    <string name="b14443_msg_reset_err">初始化失敗</string>
+    <string name="b14443_msg_data">初始化返回資料</string>
+    <string name="b14443_msg_cmd_data">命令返回資料</string>
+    <string name="update_msg_unmount">無法下載安裝檔，請檢查SD卡是否掛載</string>
+    <string name="update_msg_checking">正在檢測，請稍後...</string>
+    <string name="update_msg_diag_title">系統提示</string>
+    <string name="update_msg_curr_new">您當前已經是最新版本</string>
+    <string name="update_msg_version_info_fail">無法獲取版本更新資訊</string>
+    <string name="update_title_ok">確定</string>
+    <string name="update_title_cancel">取消</string>
+    <string name="update_msg_diag_title_two">軟體版本更新</string>
+    <string name="update_title_update_now">立即更新</string>
+    <string name="update_title_update_last">以後再說</string>
+    <string name="update_msg_updateing">正在下載新版本</string>
+    <string name="title_activity_psam">PSAM</string>
+    <string name="psam_title_voltage">電  壓</string>
+    <string name="psam_title_parameter">參數</string>
+    <string name="psam_title_baud">串列傳輸速率</string>
+    <string name="psam_title_cmd">命令</string>
+    <string name="psam_title_data">數據</string>
+    <string name="psam_title_send">發送</string>
+    <string name="psam_title_set">設置</string>
+    <string name="psam_title_clear">清除</string>
+
+
+    <string name="psam_title_save">保存記錄</string>
+
+    <string name="psam_title_card_1">卡槽1</string>
+    <string name="psam_title_card_2">卡槽2</string>
+
+
+    <string name="psam_title_tips">記錄保存在handset/PSAM目錄.</string>
+
+    <string name="psam_msg_fail">操作失敗</string>
+    <string name="title_activity_analog_call">模擬通話</string>
+    <string name="title_analog_call_touch_on">按住錄音</string>
+    <string name="title_analog_call_touch_off">鬆開播放</string>
+    <string name="title_activity_camera">相機</string>
+    <string name="camera_alert">設備只有一個攝像頭!</string>
+    <string name="switch_cam">切換攝像頭</string>
+    <string name="camera_none">設備沒有攝像頭!</string>
+
+    <!-- zxing start -->
+    <string name="zxing_app_name">相機掃碼</string>
+    <string name="app_picker_name">應用</string>
+    <string name="bookmark_picker_name">書簽</string>
+    <string name="button_add_calendar">添加事件至日曆</string>
+    <string name="button_add_contact">添加連絡人</string>
+    <string name="button_back">返回</string>
+    <string name="button_book_search">打開圖書搜索</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_custom_product_search">自訂搜索</string>
+    <string name="button_dial">撥號</string>
+    <string name="button_done">完成</string>
+    <string name="button_email">發送email</string>
+    <string name="button_get_directions">獲取地址</string>
+    <string name="button_google_shopper">穀歌購物</string>
+    <string name="button_mms">發送彩信</string>
+    <string name="button_ok">確定</string>
+    <string name="button_open_browser">打開流覽器</string>
+    <string name="button_product_search">打開產品搜索</string>
+    <string name="button_search_book_contents">搜索圖書內容</string>
+    <string name="button_share_app">共用應用</string>
+    <string name="button_share_bookmark">分享書簽</string>
+    <string name="button_share_by_email">通過email分享</string>
+    <string name="button_share_by_sms">通過短信分享</string>
+    <string name="button_share_clipboard">分享剪切板</string>
+    <string name="button_share_contact">分享連絡人</string>
+    <string name="button_show_map">顯示地圖</string>
+    <string name="button_sms">發送短信</string>
+    <string name="button_web_search">網頁搜索</string>
+    <string name="button_wifi">連接到網路</string>
+    <string name="contents_contact">連絡人信息</string>
+    <string name="contents_email">Email地址</string>
+    <string name="contents_location">地理座標</string>
+    <string name="contents_phone">電話號碼</string>
+    <string name="contents_sms">短信地址</string>
+    <string name="contents_text">純文字</string>
+    <string name="history_clear_one_history_text">刪除</string>
+    <string name="history_clear_text">刪除歷史</string>
+    <string name="history_email_title">條碼掃描器歷史</string>
+    <string name="history_empty">空的</string>
+    <string name="history_empty_detail">沒有條碼掃描已記錄</string>
+    <string name="history_send">發送歷史</string>
+    <string name="history_title">歷史</string>
+    <string name="menu_encode_mecard">使用MECARD</string>
+    <string name="menu_encode_vcard">使用vCard</string>
+    <string name="menu_help">幫助</string>
+    <string name="menu_history">歷史</string>
+    <string name="menu_settings">設置</string>
+    <string name="menu_share">分享</string>
+    <string name="msg_bulk_mode_scanned">批量掃描：找到條碼，已保存</string>
+    <string name="msg_camera_framework_bug">抱歉，Android相機出現問題。您可能需要重啟設備。</string>
+    <string name="msg_default_format">格式</string>
+    <string name="msg_default_meta">中繼資料</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">請將條碼置於取景框內掃描。  </string>
+    <string name="msg_default_time">時間</string>
+    <string name="msg_default_type">類型</string>
+    <string name="msg_encode_contents_failed">無法根據已有資料生成條碼。   </string>
+    <string name="msg_google_books">穀歌圖書</string>
+    <string name="msg_google_product">穀歌購物</string>
+    <string name="msg_google_shopper_missing">穀歌購物未安裝</string>
+    <string name="msg_install_google_shopper">穀歌購物是一款將條碼掃描和商品比價相結合的應用，穀歌購物不使用流覽器，您想嘗試嗎？</string>
+    <string name="msg_intent_failed">抱歉，無法打開所需軟體。 條碼內容可能無效。</string>
+    <string name="msg_redirect">重定向</string>
+    <string name="msg_sbc_book_not_searchable">抱歉，無法找到此圖書。</string>
+    <string name="msg_sbc_failed">抱歉，搜索時遇到錯誤。</string>
+    <string name="msg_sbc_no_page_returned">無頁面返回</string>
+    <string name="msg_sbc_page">頁面</string>
+    <string name="msg_sbc_results">結果</string>
+    <string name="msg_sbc_searching_book">搜索圖書…</string>
+    <string name="msg_sbc_snippet_unavailable">摘錄不可用</string>
+    <string name="msg_sbc_unknown_page">未知頁面</string>
+    <string name="msg_share_explanation">您可以通過在自己的手機上顯示條碼，並使用其它手機掃描此條碼的方式進行分享</string>
+    <string name="msg_share_subject_line">這是我所掃描條碼的內容</string>
+    <string name="msg_share_text">或鍵入一些文字</string>
+    <string name="msg_sure">你肯定嗎？</string>
+    <string name="msg_unmount_usb">抱歉，SD卡不可訪問。</string>
+    <string name="preferences_actions_title">找到條碼時</string>
+    <string name="preferences_auto_focus_title">使用自動對焦</string>
+    <string name="preferences_bulk_mode_summary">連續掃描並保存多個條碼</string>
+    <string name="preferences_bulk_mode_title">批量掃描模式</string>
+    <string name="preferences_copy_to_clipboard_title">複製到剪切板</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">替換：％s=內容，％f=格式，％t=類型</string>
+    <string name="preferences_custom_product_search_title">自訂搜索網址</string>
+    <string name="preferences_decode_1D_title">掃描 一維條碼</string>
+    <string name="preferences_decode_Data_Matrix_title">掃描 DM碼</string>
+    <string name="preferences_decode_QR_title">掃描 QR碼</string>
+    <string name="preferences_device_bug_workarounds_title">設備問題解決辦法</string>
+    <string name="preferences_disable_continuous_focus_summary">只使用標準對焦模式</string>
+    <string name="preferences_disable_continuous_focus_title">沒有持續關注</string>
+    <string name="preferences_disable_exposure_title">無曝光</string>
+    <string name="preferences_front_light_summary">前燈可用時，打開前燈</string>
+    <string name="preferences_front_light_title">前燈</string>
+    <string name="preferences_general_title">一般設置</string>
+    <string name="preferences_name">設置</string>
+    <string name="preferences_play_beep_title">提示音</string>
+    <string name="preferences_remember_duplicates_summary">在歷史記錄中保存重複記錄</string>
+    <string name="preferences_remember_duplicates_title">記住重複</string>
+    <string name="preferences_result_title">結果設置</string>
+    <string name="preferences_scanning_title">條碼類型選擇</string>
+    <string name="preferences_search_country">搜索國家</string>
+    <string name="preferences_supplemental_summary">嘗試檢索關於條碼內容的更多資訊</string>
+    <string name="preferences_supplemental_title">檢索更多資訊</string>
+    <string name="preferences_try_bsplus">嘗試條碼掃描器+</string>
+    <string name="preferences_try_bsplus_summary">增強新的功能和介面</string>
+    <string name="preferences_vibrate_title">振動</string>
+    <string name="result_address_book">找到連絡人資訊</string>
+    <string name="result_calendar">找到日曆事件</string>
+    <string name="result_email_address">找到email地址</string>
+    <string name="result_geo">找到地理座標</string>
+    <string name="result_isbn">找到圖書</string>
+    <string name="result_product">找到產品</string>
+    <string name="result_sms">找到短信地址</string>
+    <string name="result_tel">找到電話號碼</string>
+    <string name="result_text">找到純文字</string>
+    <string name="result_uri">找到URL</string>
+    <string name="result_wifi">發現網路配置</string>
+    <string name="sbc_name">Google圖書搜索</string>
+    <string name="share_name">通過條碼分享</string>
+    <string name="wifi_changing_network">請求連接到網路\u2026</string>
+    <string name="wifi_ssid_label">網路SSID</string>
+    <string name="wifi_type_label">類型</string>
+
+    <!-- zxing end -->
+
+
+    <string name="title_activity_auto_run_network">自動網路測試</string>
+
+    <string name="desfire_title_scan">尋卡</string>
+    <string name="desfire_title_back">上一級</string>
+    <string name="desfire_title_pwd">密碼</string>
+    <string name="desfire_title_pwd_tip">1~6位十六進位數</string>
+    <string name="desfire_ms_pwd_not_null">密碼不能為空</string>
+    <string name="desfire_title_properties">屬性</string>
+    <string name="desfire_title_change_pwd">改密碼</string>
+    <string name="desfire_title_get_version">版本</string>
+    <string name="desfire_title_add_app">新建應用</string>
+    <string name="desfire_title_format">格式化</string>
+    <string name="title_del">刪除</string>
+    <string name="desfire_title_add_file">新建文件</string>
+    <string name="desfire_title_sel_app_fail">選擇應用失敗</string>
+    <string name="desfire_msg_pwd_not_hex">請輸入十六進位數</string>
+    <string name="desfire_msg_pwd_vail_fail">驗證失敗</string>
+    <string name="desfire_msg_get_apps_fail">獲取應用失敗</string>
+    <string name="desfire_msg_get_files_fail">獲取檔失敗</string>
+
+    <string name="desfire_msg_get_info_fail">獲取資訊失敗</string>
+    <string name="desfire_title_pwd_pro_chg">密碼屬性可修改</string>
+    <string name="desfire_title_add_del_pwd">增刪應用驗證密碼</string>
+    <string name="desfire_title_oper_pwd">操作應用驗證密碼</string>
+    <string name="desfire_title_pwd_chg">密碼可修改</string>
+
+    <string name="desfire_msg_operator_fail">操作失敗</string>
+    <string name="desfire_msg_operator_succ">操作成功</string>
+
+    <string name="desfire_title_app_id">應用ID</string>
+    <string name="desfire_title_file_num">文件個數</string>
+    <string name="desfire_title_comm_setting">通訊設置</string>
+    <string name="desfire_title_create">創建</string>
+    <string name="desfire_title_modify">修改</string>
+
+    <string name="desfire_title_appid_input">3個位元組十六進位數</string>
+    <string name="desfire_msg_id_must_len_3">應用ID必須是3個位元組</string>
+    <string name="desfire_msg_file_num_must_len_1">檔數必須是1個位元組</string>
+    <string name="desfire_msg_comm_setting_must_len_1">通訊設置必須是1個位元組</string>
+    <string name="desfire_title_file_id">文件號</string>
+    <string name="desfire_title_file_size">文件大小</string>
+    <string name="desfire_title_link_encry">通訊加密</string>
+
+
+    <string-array name="desfire_array_encry">
+        <item>透明傳輸</item>
+        <item>3DES加密傳輸</item>
+    </string-array>
+    <string name="desfire_title_read_permission">讀權</string>
+    <string name="desfire_title_write_permission">寫權</string>
+    <string name="desfire_title_readwrite_permission">讀寫</string>
+    <string name="desfire_title_update_permission">改設</string>
+
+    <string name="desfire_msg_file_no_less_1">文件已滿</string>
+    <string name="desfire_ms_filesize_not_null">檔大小不能為空</string>
+    <string name="desfire_title_sta_file">資料檔案</string>
+    <string name="desfire_title_value_file">值文件</string>
+
+    <string name="desfire_title_value_min">最小</string>
+    <string name="desfire_title_value_max">最大</string>
+    <string name="desfire_title_value_curr">當前</string>
+    <string name="desfire_ms_not_null">不能為空</string>
+    <string name="desfire_title_value_balance">剩餘金額</string>
+    <string name="desfire_title_value_credit">充值金額</string>
+    <string name="desfire_title_value_debit">扣除金額</string>
+
+    <string name="desfire_title_file">數據</string>
+    <string name="desfire_title_card_properties">卡片屬性</string>
+    <string name="desfire_title_get_card_version">卡片版本</string>
+    <string name="desfire_ms_unknown_file">未知類型文件</string>
+
+    <string name="desfire_title_app_change_pwd">修改應用密碼</string>
+    <string name="desfire_title_app_properties">應用屬性</string>
+    <string name="desfire_title_dialog_tips">提示</string>
+    <string name="desfire_title_dialog_tips_msg">是否確認操作？</string>
+
+    <string name="desfire_title_app_add_del_pwd">增刪檔驗證密碼</string>
+    <string name="desfire_title_app_oper_pwd">操作檔驗證密碼</string>
+    <string name="desfire_title_app_change_pwd_permission">改變應用密碼所需許可權</string>
+    <string name="desfire_title_app_max_key">最大金鑰數</string>
+    <string name="desfire_title_card_click_tip">點擊進入</string>
+
+
+    <string name="kettest_msg_broadcast_tip">按鍵廣播</string>
+    <string name="nfc_msg_no_device">設備不支援NFC！</string>
+    <string name="nfc_msg_no_open">請在系統設置中先啟用NFC功能！</string>
+
+    <string name="nfc_msg_write_tip">將手機背面靠近NFC標籤開始寫入</string>
+
+    <string name="nfc_title_reader">讀取</string>
+    <string name="nfc_title_writer">寫入</string>
+    <string name="nfc_msg_read_only">NFC Tag是唯讀的！</string>
+    <string name="nfc_msg_too_long">寫入內容過長</string>
+    <string name="nfc_msg_write_succ">標籤寫入成功</string>
+    <string name="nfc_msg_not_support_ndef">標籤不支持NDEF</string>
+    <string name="nfc_msg_write_exception">出現異常，寫入失敗</string>
+    <string name="title_activity_printer">印表機</string>
+    <string name="printer_msg_low_pager">印表機缺紙</string>
+
+
+    <string name="keyboard_title_single">簡易鍵盤</string>
+    <string name="keyboard_title_multiple">全鍵盤</string>
+    <string name="title_activity_er_dsoft">二維(軟解)</string>
+    <string name="er_dsoft_tab_scan">掃描</string>
+    <string name="er_dsoft_tab_pic">拍照</string>
+    <string name="er_dsoft_tab_set">設置</string>
+
+    <string name="er_dsoft_get_img_data_fail">獲取圖像資料失敗</string>
+    <string name="er_dsoft_get_img_succ">已保存圖片到相冊</string>
+
+    <string name="er_dsoft_get_Get">獲取</string>
+    <string name="er_dsoft_get_Set">設置</string>
+
+    <string name="er_dsoft_Set_succ">設置成功</string>
+    <string name="er_dsoft_Set_fail">設置失敗</string>
+
+
+    <string name="title_activity_app_setings">設置</string>
+    <string name="msg_barcode_set">條碼掃描設置</string>
+    <string name="msg_barcode_ck">啟用鬆開按鍵關閉掃描</string>
+    <string name="title_activity_infrared">紅外</string>
+    <string name="title_activity_uart">串口測試</string>
+    <string name="msg_receive">接收的內容</string>
+
+    <string name="msg_reboot_count">重啟次數：</string>
+    <string name="msg_reboot_complete">已完成：</string>
+    <string name="msg_reboot_set">設定數：</string>
+
+    <string name="title_UART">位置：</string>
+
+    <string name="title_hex">十六進位</string>
+
+    <string name="msg_init_fail">打開失敗</string>
+    <string name="msg_init_succ">打開成功</string>
+
+    <string name="msg_free_fail">關閉失敗</string>
+    <string name="msg_free_succ">關閉成功</string>
+
+    <string name="msg_file_format_err">檔案格式不正確</string>
+
+    <string name="title_Check">校驗：</string>
+    <string name="title_id_power">電能值</string>
+    <string name="title_97_infrared">97標準</string>
+    <string name="title_07_infrared">07標準</string>
+    <string name="title_elapsed_time">耗時</string>
+    <string name="title_power_id">電錶號</string>
+
+
+    <!-- 新添 -->
+    <string name="myMenu">菜單</string>
+    <string name="normal_set">公共模組設置</string>
+    <string name="R2000_set">R2000專用設置</string>
+    <string name="uhf_btn_setLinkParams">設置鏈路參數</string>
+    <string name="uhf_btn_getLinkParams">獲取鏈路參數</string>
+    <string name="tagFocus">開啟tagFocus</string>
+    <string name="fastID">開啟FastID</string>
+    <string name="EPC_TID">開啟尋EPC和TID</string>
+    <string name="tagFocus_off">關閉tagFocus</string>
+    <string name="fastID_off">關閉FastID</string>
+    <string name="EPC_TID_off">關閉尋EPC和TID</string>
+    <string name="btErase">擦除</string>
+    <string name="inputData">請輸入存儲的資料</string>
+    <string name="setAgreement_succ">設置協議成功</string>
+    <string name="setAgreement_fail">設置協定失敗</string>
+    <string name="setQTParams_succ">設置QT參數成功</string>
+    <string name="setQTParams_fail">設置QT參數失敗</string>
+    <string name="getQTParams_succ">獲取QT參數成功</string>
+    <string name="getQTParams_fail">獲取QT參數失敗</string>
+    <string name="please_on">請先開啟QT標籤</string>
+    <string name="button_enable">啟用</string>
+    <string name="button_disable">禁用</string>
+    <string name="msg_disable_succ">禁用成功</string>
+    <string name="msg_disable_fail">禁用失敗</string>
+    <string name="msg_data_hex">資料格式不對</string>
+    <string name="msg_tag_hex">標籤號格式不對</string>
+    <string name="uhf_msg_r2000_tip">此功能僅對R2000模組有效</string><string name="uhf_msg_set_protocol_succ">設置協議成功</string>
+    <string name="uhf_msg_set_protocol_fail">設置協定失敗</string>
+
+    <string name="uhf_msg_set_frehop_succ">設置頻點成功</string>
+    <string name="uhf_msg_set_frehop_fail">設置頻點失敗</string>
+
+    <string name="uhf_msg_set_succ">設置成功</string>
+    <string name="uhf_msg_set_fail">設置失敗</string>
+
+    <string name="uhf_msg_get_para_succ">獲取成功</string>
+    <string name="uhf_msg_get_para_fail">獲取失敗</string>
+
+
+    <string name="uhf_msg_read_pwm_fail">讀取空占比失敗</string>
+    <string name="uhf_msg_set_pwm_succ">設置空占比成功</string>
+    <string name="uhf_msg_set_pwm_fail">設置空占比失敗</string>
+
+    <string name="uhf_msg_set_filter_fail">設置過濾失敗</string>
+    <string name="uhf_msg_set_filter_succ">設置過濾成功</string>
+
+    <string name="uhf_msg_set_power_fail">設置功率失敗</string>
+    <string name="uhf_msg_set_power_succ">設置功率成功</string>
+    <string name="uhf_msg_read_power_fail">讀取功率失敗</string>
+    <string name="uhf_msg_read_power_succ">讀取功率成功</string>
+
+    <string name="China">中國</string>
+    <string name="Europe">歐洲</string>
+    <string name="America">美國</string>
+    <string name="Others">其他</string>
+    <string name="freHopType">頻點類型：</string>
+
+    <string name="InventoryListNo">盤點清單編號:</string>
+    <string name="Network_disconnection">網路未連線!!</string>
+    <string name="LowPoserNotice">低電量通知</string>
+</resources>

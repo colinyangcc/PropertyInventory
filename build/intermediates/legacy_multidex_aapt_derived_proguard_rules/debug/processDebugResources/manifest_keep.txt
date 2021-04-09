@@ -1,0 +1,2 @@
+# Referenced at D:\Colin\Case6\AGC\Handheld\PropertyInventory_20210303\build\intermediates\merged_manifests\debug\AndroidManifest.xml:28
+-keep class com.example.agc_inventory.tools.LoginAccount { <init>(); }

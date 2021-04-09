@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200722\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200722\build\intermediates\transforms\dex\debug\folders\1000\2\jxl_1294bf5b1368c00fd7cbf3b1656713ead7174369\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\REGINA\Handheld\PropertyInventory_20200306\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\REGINA\Handheld\PropertyInventory_20200306\build\intermediates\pre-dexed\debug\cw-deviceapi20190815_e178b7bf5891ab021632a5cace9d173fb0904c82.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200722\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200722\build\intermediates\transforms\dex\debug\folders\1000\2\jtds-1.3.0_d4e798b16ebe2d9452f9e56cdbac6a70c7c2f340\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\REGINA\Handheld\PropertyInventory_20200306\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\REGINA\Handheld\PropertyInventory_20200306\build\intermediates\pre-dexed\debug\jtds-1.3.0_97cbdfab67321ce6c9e1526fff64410549c0e617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200423\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200423\build\intermediates\pre-dexed\debug\xUtils-2.5.5_efb574a1763cac683aa1135e74bb9398cb9d425b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200423\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200423\build\intermediates\pre-dexed\debug\jxl_3e6dbea39166b1442d26180f67d7545456c33f70.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\build\intermediates\transforms\dex\debug\folders\1000\2\jtds-1.3.0_01cef6cb6e8f21035042f96221b3a007ff1c6026\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200424\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200424\build\intermediates\pre-dexed\debug\xUtils-2.5.5_328a88a4cf39da80ed8c8f4381c0abd9f9ed64df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\build\intermediates\transforms\dex\debug\folders\1000\2\jxl_e73bfe2096da8fb7ce78cca26e67f38d858823cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609_1\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609_1\build\intermediates\pre-dexed\debug\xUtils-2.5.5_d7640ffd137c75f4177461772646f68cc3440063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200603\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200603\build\intermediates\pre-dexed\debug\cw-deviceapi20190815_ecc9da925842e28b9c1c342eccb4820ca5661e77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201027_search\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201027_search\build\intermediates\transforms\dex\debug\folders\1000\2\jtds-1.3.0_c0c5bb51fee6a3d221a11b573b306bba67a28f15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\loyol\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_0256959cc5d98aadb6c3ed9561771c4e2668b155\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200603\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200603\build\intermediates\pre-dexed\debug\xUtils-2.5.5_018fedae776e0442ce5b456f51ceec85d7d98b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\loyol\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\build\intermediates\pre-dexed\debug\support-v4-18.0.0_0256959cc5d98aadb6c3ed9561771c4e2668b155.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\build\intermediates\transforms\dex\debug\folders\1000\2\cw-deviceapi20190815_fdf3627dbd22e000cf3f4c319c14394106b361e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200610\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.5.5_be12eacd979208dcebb7b994c97e8935cb863430\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200423\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200423\build\intermediates\pre-dexed\debug\jtds-1.3.0_00f38538c5bfaac63931d7a2e6a2c491ca85ed16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609_1\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609_1\build\intermediates\pre-dexed\debug\jtds-1.3.0_862cf05e49ff137b35772df61c471c3ae82093cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200603\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200603\build\intermediates\pre-dexed\debug\jtds-1.3.0_9d01d905f856533af55800d5c098f1e7cbc8df2b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201027_search\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201027_search\build\intermediates\transforms\dex\debug\folders\1000\2\jxl_87ee6c9bdd690fe9212f328985c6f29dee9a5429\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201106\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201106\build\intermediates\transforms\dex\debug\folders\1000\2\jxl_527d5f4a3dc8a1d9392b5310e4a508438059e62e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200716\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200716\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.5.5_78600794bfc49b143751bf060258b2bd7fee79b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200603\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200603\build\intermediates\pre-dexed\debug\jxl_beb436064736c3e992fa18996d9092f59ca313cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201106\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201106\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.5.5_ed1a40b150864bb9c36f59801408b931e9d497ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201106\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201106\build\intermediates\transforms\dex\debug\folders\1000\2\cw-deviceapi20190815_0ae438202b41582c706e2eb5f0d88812a503c411\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200424\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200424\build\intermediates\pre-dexed\debug\cw-deviceapi20190815_4f30eb51cca20e293b8df740e5173f326fa2c8e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200424\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200424\build\intermediates\pre-dexed\debug\jtds-1.3.0_2867d61ec7a583e7761b027d72d40468a328ec5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200716\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200716\build\intermediates\transforms\dex\debug\folders\1000\2\jxl_936c081f477bb8a50ffb1a5dbd270305ae7ce422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200716\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200716\build\intermediates\transforms\dex\debug\folders\1000\2\cw-deviceapi20190815_d5bdee2a65c51590ece7fb8bbca5219568a313b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\build\intermediates\pre-dexed\debug\jxl_f3eba70d8485d69c973ce719f24b13ce7b363d56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\build\intermediates\pre-dexed\debug\xUtils-2.5.5_d2c957bd5f515c93099c979edcd56f64891434c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\build\intermediates\pre-dexed\debug\jtds-1.3.0_d1e27841f586605eed5eed66714c3e25d95ba7d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200716\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200716\build\intermediates\transforms\dex\debug\folders\1000\2\jtds-1.3.0_4a0fec19e3051f8cfc8554bece8bce4c7c7ebea0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200507\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200507\build\intermediates\pre-dexed\debug\cw-deviceapi20190815_c3c484a1079d9a1c13c283325fd5abb076c04c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\REGINA\Handheld\PropertyInventory_20200306\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\REGINA\Handheld\PropertyInventory_20200306\build\intermediates\pre-dexed\debug\xUtils-2.5.5_852d8be5025c07cacee5c5ebbba85d0c434cd011.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201106\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201106\build\intermediates\transforms\dex\debug\folders\1000\2\jtds-1.3.0_0ea2e057f5138cc8aeb667d758d991cd21190322\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200507\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200507\build\intermediates\pre-dexed\debug\jtds-1.3.0_26a415ae9b45d403a97ddd04d8d340a113c13cce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200722\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200722\build\intermediates\transforms\dex\debug\folders\1000\2\cw-deviceapi20190815_2cc0997c403f1f4221b7f1eb6e19099b51b40de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200306\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200306\build\intermediates\pre-dexed\debug\xUtils-2.5.5_30c09f4359371d460ec8d7ae8915aca64f960677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609_1\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609_1\build\intermediates\pre-dexed\debug\cw-deviceapi20190815_a9731b4a1e8e187c78af460b539e468a3492ba55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201027_search\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201027_search\build\intermediates\transforms\dex\debug\folders\1000\2\cw-deviceapi20190815_d5c0b5ee1cc1417190ca384c3509c100d26f00fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200507\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200507\build\intermediates\pre-dexed\debug\xUtils-2.5.5_49d37c5e25be42ce7f7de79278289afa3897d1ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609_1\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609_1\build\intermediates\pre-dexed\debug\jxl_a4b27a7adb06af2e932be0c02a80d758ff39c3b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200306\libs\jtds-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15fd02c22684ed5ccb56ab6d413b14a1dc34a439">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200306\build\intermediates\pre-dexed\debug\jtds-1.3.0_79143b06967d46c841181508c32e3f40cdde1442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200609\build\intermediates\pre-dexed\debug\cw-deviceapi20190815_4bed95e8f67921e86094b9ed26527893016aa1b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\REGINA\Handheld\PropertyInventory_20200306\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\REGINA\Handheld\PropertyInventory_20200306\build\intermediates\pre-dexed\debug\jxl_dab36054fe4eb8855d171808db40524902e35399.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201027_search\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20201027_search\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.5.5_5e1d2aa8ba44f2a72d9416c916fb5e4c086d41d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200722\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200722\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.5.5_211c2e72fe7f0f7a2dba5c973b5a449a6c4a0cff\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200306\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200306\build\intermediates\pre-dexed\debug\cw-deviceapi20190815_ae62197bb088ee68c2cb318c96424044a7cd869f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200306\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200306\build\intermediates\pre-dexed\debug\jxl_5da8dbb5d78c1a77192b80747e7e014b8088516d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200507\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200507\build\intermediates\pre-dexed\debug\jxl_1f1437d2faa9177ee4bad142cdd4ab8b349dcaa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200424\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200424\build\intermediates\pre-dexed\debug\jxl_417da0ded16e18b603b7564b3d1506aaaa8bcf75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200423\libs\cw-deviceapi20190815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7643907c7ac8bfc75abe5179c64814a787bfc49">
+        <dex dex="D:\Colin\Case6\AGC\Handheld\PropertyInventory_20200423\build\intermediates\pre-dexed\debug\cw-deviceapi20190815_2ae66ee5237e9747f6bfe8fee94194b9202b72e4.jar" />
+    </item>
+
+</items>
