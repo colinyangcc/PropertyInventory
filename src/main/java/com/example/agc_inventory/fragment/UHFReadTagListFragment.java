@@ -150,6 +150,7 @@ public class UHFReadTagListFragment extends KeyDwonFragment {
 
         llContinuous = (LinearLayout) getView().findViewById(R.id.llContinuous);
 
+        // mssql connection str
         ConnURL = "jdbc:jtds:sqlserver://" + Account.getDBHostIP() + ";instanceName=MSSQLSERVER2017;"
                 + "databaseName=" + Account.getDBName() + ";charset=utf8;integratedSecurity=true;user=" + Account.getDBAccount() + ";password=" + Account.getDBPassword() + ";";
 
